@@ -1,0 +1,7 @@
+ {
+  "extends": [
+    "@react-native-community",
+    "@rocketseat/eslint-config/react"
+  ]
+}
+ 
